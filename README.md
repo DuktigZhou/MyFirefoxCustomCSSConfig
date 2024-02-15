@@ -1,7 +1,7 @@
 # MyFirefoxCustomCSSConfig
 
 ## 变更
-- 为Firefox增加侧边栏
+- 为Firefox增加侧栏垂直标签页
 - 配色方案基于VSCode Modern Dark Theme
 - 使UI贴近Arc Browser/Microsoft Edge Browser
 
