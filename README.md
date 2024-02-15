@@ -1,0 +1,2 @@
+# MyFirefoxCustomCSSConfig
+ MyFirefoxCustomCSSConfig
