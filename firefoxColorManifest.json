@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "VSCode Modern Dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(31, 31, 31)",
+      "toolbar_text": "rgb(239, 239, 239)",
+      "frame": "rgb(31, 31, 31)",
+      "tab_background_text": "rgb(239, 239, 239)",
+      "toolbar_field": "rgb(31, 31, 31)",
+      "toolbar_field_text": "rgb(239, 239, 239)",
+      "tab_line": "rgb(4, 57, 94)",
+      "popup": "rgb(31, 31, 31)",
+      "popup_text": "rgb(239, 239, 239)",
+      "button_background_active": "rgb(38, 79, 120)",
+      "popup_border": "rgb(69, 69, 69)",
+      "popup_highlight": "rgb(4, 57, 94)",
+      "tab_selected": "rgb(4, 57, 94)",
+      "toolbar_field_border_focus": "rgb(38, 79, 120)",
+      "tab_loading": "rgb(4, 57, 94)"
+    }
+  }
+}
